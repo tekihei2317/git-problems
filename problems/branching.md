@@ -2,8 +2,10 @@
 
 ## 準備
 
+はじめに以下のリポジトリをクローンしてください。
+
 ```bash
-git clone git@github.com:tekihei2317/git-problems_commit.git
+git clone git@github.com:tekihei2317/git-problems_branching.git
 ```
 
 ## 問題
