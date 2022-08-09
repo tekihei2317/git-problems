@@ -21,3 +21,12 @@ $ git log --all --graph --oneline
 |/
 * e513abf first commit
 ```
+
+![](https://i.gyazo.com/0294723b013c522d6c89069b36342c8c.png)
+
+## 正答条件
+
+- グラフの形とコミットメッセージが正解と同じこと
+- practice1ブランチがcommit2を指していること
+- mainブランチがcommit3を指していること
+- practice2ブランチがcommit4を指していること
