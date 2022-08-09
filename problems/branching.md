@@ -21,6 +21,8 @@ $ git log --all --graph --oneline
 * c74468a first commit
 ```
 
+![](https://i.gyazo.com/3ab9bc43cc4ac37fc36b4c3cd045e660.png)
+
 ## 正答条件
 
 - グラフの形とコミットメッセージが正解と同じこと
