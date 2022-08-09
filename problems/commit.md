@@ -1,10 +1,13 @@
 # コミットの作成
 
+## 準備
+
 はじめに以下のリポジトリをクローンしてください。
 
 ```bash
 git clone git@github.com:tekihei2317/git-problems_commit.git
 ```
+## 問題
 
 現在、リポジトリには`test.txt`が含まれています。
 新たに`test2.txt`をコミットして、コミットグラフを以下のようにしてください。
