@@ -6,6 +6,7 @@ gitの問題集です。
 
 - [コミットの作成](./problems/commit.md)
 - [ブランチの作成とコミット](./problems/branching.md)
+- [早送りマージ](./problems/ff-merge.md)
 - [早送りでないマージ](./problems/non-ff-merge.md)
 
 ## リモートリポジトリに関する問題

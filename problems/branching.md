@@ -26,5 +26,5 @@ $ git log --all --graph --oneline
 ## 正答条件
 
 - グラフの形とコミットメッセージが正解と同じこと
-- practiceブランチがcommit3を指していること
-- mainブランチがcommit4を指していること
+- `practice`ブランチがcommit3を指していること
+- `main`ブランチがcommit4を指していること
