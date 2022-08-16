@@ -10,3 +10,5 @@ gitの問題集です。
 - [早送りでないマージ](./problems/non-ff-merge.md)
 
 ## リモートリポジトリに関する問題
+
+- [コンフリクトの解消](./problems/resolve-conflict.md)
